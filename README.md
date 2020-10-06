@@ -1,4 +1,4 @@
-# HTTP/3.0 Main Information.
+# HTTP/3.0.
 
 
 
